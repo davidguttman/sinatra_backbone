@@ -1,0 +1,3 @@
+To compile coffeescript files to javascript counterparts:
+
+    cake assets:watch
